@@ -1,0 +1,11 @@
+# build outputs
+/build*/
+/release/
+/out/
+/vcpkg_installed/
+CMakeUserPresets.json
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
